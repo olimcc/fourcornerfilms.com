@@ -468,6 +468,12 @@ h1 {
     margin-right:15px;*/
 }
 
+.portfolio-item a:click {
+    text-decoration:none;
+}
+.portfolio-item a:hover {
+    text-decoration:none;
+}
 
 .portfolio-item img {
     max-width: 100%;
