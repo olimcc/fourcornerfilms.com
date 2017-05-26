@@ -1,0 +1,6 @@
+venv/
+log.txt
+*.pyc
+bower_components/
+.DS_Store
+*.sw*

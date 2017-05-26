@@ -1,0 +1,8 @@
+{
+    "projects": [
+        {"config": "bkapc.json"},
+        {"config": "bkawa.json"},
+        {"config": "ltd.json"},
+        {"config": "oakland.json"}
+    ]
+}
