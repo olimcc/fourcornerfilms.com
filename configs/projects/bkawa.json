@@ -1,8 +1,16 @@
 {
     "slug": "better-known-as-woman-afire",
     "title": "Better Known As Woman Afire",
-    "title_image": "dixie2.jpg",
+    "title_image": "01.jpg",
     "video_url": "",
-    "logline": "Drag icon Peaches Christ offers a rare, intimate glimpse into her process of transformation, and describes the path from stifled teen to brazen cult hero.",
-    "summary": "Two decades after Joshua Grannell gave birth to his bold, brazen, busty alter- ego, Peaches Christ has become a beloved cult icon. This lush, intimate portrait offers a rare candid glimpse into the pre-show transformation of San Francisco's most sought-after drag queen. Both man and queen get personal as they discuss transgression, catharsis, and how by becoming someone else, Joshua learned to love himself."
+    "logline": "Dixie James, now 74, is as active as ever, working out 6 days a week for 3 hours a day; follow Dixie's journey of starting to exercise in her 50s and how she uses exercise to stay connected with her family.",
+    "summary": "Dixie James, now 74, is as active as ever, working out 6 days a week for 3 hours a day; follow Dixie's journey of starting to exercise in her 50s and how she uses exercise to stay connected with her family.",
+    "images": [
+        {"path": "02.jpg", "tagline": ""},
+        {"path": "03.jpg", "tagline": ""},
+        {"path": "04.jpg", "tagline": ""},
+        {"path": "05.jpg", "tagline": ""},
+        {"path": "06.jpg", "tagline": ""},
+        {"path": "07.jpg", "tagline": ""}
+    ]
 }

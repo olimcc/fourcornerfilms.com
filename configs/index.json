@@ -2,7 +2,9 @@
     "projects": [
         {"config": "bkapc.json"},
         {"config": "bkawa.json"},
-        {"config": "ltd.json"},
-        {"config": "oakland.json"}
+        {"config": "deep-reflection.json"},
+        {"config": "emojional-journey.json"},
+        {"config": "oakland.json"},
+        {"config": "ltd.json"}
     ]
 }

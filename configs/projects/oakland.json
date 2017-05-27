@@ -1,8 +1,13 @@
 {
     "slug": "oakland-port",
     "title": "Oakland Port",
-    "title_image": "shipping.jpg",
-    "video_url": "",
-    "logline": "A visual exploration of Oakland Port, California",
-    "summary": "Aerial photography of the third busiest port in the US, set to the music of The Incognito Traveller's 'Movements of Migration'."
+    "title_image": "01.jpg",
+    "logline": "A visual exploration of Oakland Port, California.",
+    "summary": "Aerial photography of the third busiest port in the US, set to the music of The Incognito Traveller's 'Movements of Migration'.",
+    "images": [
+        {"path": "02.jpg"},
+        {"path": "03.jpg"},
+        {"path": "04.jpg"},
+        {"path": "05.jpg"}
+    ]
 }
