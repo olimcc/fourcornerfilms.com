@@ -2,7 +2,7 @@ import jinja2
 import json
 import os
 
-BUILD_DIR = 'build'
+BUILD_DIR = './'
 
 def chunk(l, c):
     pos = 0
