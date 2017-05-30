@@ -1,10 +1,12 @@
 {
     "slug": "deep-reflection-the-incognito-traveller",
     "title": "Deep Reflection",
+    "video_url": "//player.vimeo.com/video/219550693",
     "title_image": "01.jpg",
     "logline": "A journey through oneric Icelandic landscapes, set to music by The Incognito Traveller.",
     "summary": "Mysterious & dreamy, Deep Reflection follows a man's lucid journey, retracing steps through Icelandic landscapes. The story is set to the track of the same name from the the 2017 release by The Incognito Traveller's Ravine album.",
     "images": [
+        {"path": "01.jpg", "tagline": ""},
         {"path": "02.jpg", "tagline": ""},
         {"path": "03.jpg", "tagline": ""},
         {"path": "04.jpg", "tagline": ""}
