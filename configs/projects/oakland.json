@@ -2,10 +2,10 @@
     "slug": "oakland-port",
     "title": "Oakland Port",
     "title_image": "01.jpg",
+    "video_url": "//www.youtube.com/embed/fPQFdXhh2qE",
     "logline": "A visual exploration of Oakland Port, California.",
     "summary": "Aerial photography of the third busiest port in the US, set to the music of The Incognito Traveller's 'Movements of Migration'.",
     "images": [
-        {"path": "02.jpg"},
         {"path": "03.jpg"},
         {"path": "04.jpg"},
         {"path": "05.jpg"}
